@@ -1,4 +1,4 @@
-<h1> Projeto Google / Iphone iOS</h1>
+<h1> Projeto Free Component</h1>
 
 <h2> Este foi mais um projeto criado solo, utilizando as ferramentas HTML e CSS para estilização (treino)</h2>
 <br>
