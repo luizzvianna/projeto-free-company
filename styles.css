@@ -1,0 +1,128 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    margin-left: 30px;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 127px;
+    line-height: 107.13px;
+    background-color: #5113ADBF;
+    border-radius: 9px;
+    width: 192px;
+    height: 118px;
+    border: solid transparent;
+    cursor: pointer;
+    text-align: center;
+    margin-top: -65px;
+    color: aliceblue;
+    margin-right: -58px;
+    margin-bottom: 15px;
+   
+}
+
+h2 {
+    font-size: 80px;
+    font-weight: 700;
+    color: #000;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+img {
+width: 1500px;
+height: 1000px;  
+display: inline;
+margin-left: 360px;
+margin-top: -855px; 
+}
+
+section {
+    margin-left: 25px;
+}
+
+article {
+    margin-left: 100px;
+    margin-top: 400px;
+}
+
+.beta {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 34.13px;
+    background-color: brown;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    border: solid transparent;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+    margin-right: 15px;
+    margin-left: 123px;
+}
+
+.bootstrap {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 34.13px;
+    background-color: blue;
+    border-radius: 5px;
+    width: 165px;
+    height: 40px;
+    border: solid transparent;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+    margin-right: 15px;
+    margin-left:0;
+}
+
+.whitelabel {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 34.13px;
+    background-color: blue;
+    border-radius: 5px;
+    width: 223px;
+    height: 40px;
+    border: solid transparent;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+    margin-right: 15px;
+    margin-left: 123px;
+}
+
+.components {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 34.13px;
+    background-color: blue;
+    border-radius: 5px;
+    width: 180px;
+    height: 40px;
+    border: solid transparent;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+    margin-right: 15px;
+    margin-left: 123px;
+}
+
+.pai {
+    margin: -40px;
+    margin-left: 2px;
+}
